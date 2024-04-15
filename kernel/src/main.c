@@ -1,5 +1,7 @@
 #include "main.h"
 
+//ALGOO
+
 int main(void) {
 	logger = log_create("kernelLog.log", "Kernel", 1, LOG_LEVEL_DEBUG);
 	int kernelFD = initServer(PORT);
