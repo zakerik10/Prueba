@@ -1,0 +1,217 @@
+[INFO] 20:40:43:711 Kernel/(7162:7162): Kernel ready to receive
+[INFO] 20:47:13:390 Kernel/(8037:8037): Kernel ready to receive
+[ERROR] 20:54:56:738 Kernel/(9189:9189): Error generating socket. getaddrinfo: Unknown error
+
+[ERROR] 20:55:19:944 Kernel/(9356:9356): Could not assign kernel socket to some fd
+[INFO] 20:55:48:600 Kernel/(9491:9491): Kernel ready to receive
+[INFO] 22:25:46:002 Kernel/(11529:11529): Kernel ready to receive
+[ERROR] 22:25:59:319 Kernel/(11711:11711): Error generating socket. getaddrinfo: Unknown error
+
+[ERROR] 22:26:15:668 Kernel/(11877:11877): Error generating socket. getaddrinfo: Temporary failure in name resolution
+
+[ERROR] 22:26:42:453 Kernel/(12049:12049): Could not assign kernel socket to some fd
+[INFO] 22:38:11:421 Kernel/(12887:12887): Kernel ready to receive
+[ERROR] 22:38:26:574 Kernel/(13041:13041): Could not assign kernel socket to some fd
+[INFO] 22:38:50:305 Kernel/(13155:13155): Kernel ready to receive
+[INFO] 22:38:57:403 Kernel/(13258:13258): Kernel ready to receive
+[INFO] 22:40:48:704 Kernel/(13258:13258): A client connected
+[INFO] 22:40:48:704 Kernel/(13258:13258): Message recived: valor
+[INFO] 22:41:03:254 Kernel/(13258:13258): The following values arrived:
+
+[INFO] 22:41:03:254 Kernel/(13258:13258): Hola
+[INFO] 22:41:03:254 Kernel/(13258:13258): To bien?
+[ERROR] 22:41:03:254 Kernel/(13258:13258): The client disconnected
+[INFO] 22:41:03:254 Kernel/(13258:13258): Kernel ready to receive
+[INFO] 22:41:16:090 Kernel/(13258:13258): A client connected
+[WARNING] 22:41:16:091 Kernel/(13258:13258): Unknown operation
+[INFO] 22:41:16:091 Kernel/(13258:13258): Message recived: valor
+[INFO] 22:41:41:107 Kernel/(13258:13258): The following values arrived:
+
+[INFO] 22:41:41:107 Kernel/(13258:13258): a
+[ERROR] 22:41:41:107 Kernel/(13258:13258): The client disconnected
+[INFO] 22:41:41:107 Kernel/(13258:13258): Kernel ready to receive
+[INFO] 22:41:51:022 Kernel/(13258:13258): A client connected
+[WARNING] 22:41:51:022 Kernel/(13258:13258): Unknown operation
+[INFO] 22:41:51:023 Kernel/(13258:13258): Message recived: valor
+[ERROR] 22:44:02:256 Kernel/(13258:13258): The client disconnected
+[INFO] 22:44:02:256 Kernel/(13258:13258): Kernel ready to receive
+[INFO] 22:44:10:650 Kernel/(13258:13258): A client connected
+[WARNING] 22:44:10:650 Kernel/(13258:13258): Unknown operation
+[INFO] 22:44:10:650 Kernel/(13258:13258): Message recived: valor
+[ERROR] 22:44:14:835 Kernel/(13258:13258): The client disconnected
+[INFO] 22:44:14:835 Kernel/(13258:13258): Kernel ready to receive
+[INFO] 22:44:41:313 Kernel/(13258:13258): A client connected
+[WARNING] 22:44:41:313 Kernel/(13258:13258): Unknown operation
+[INFO] 22:44:41:313 Kernel/(13258:13258): Message recived: valor
+[ERROR] 22:47:00:646 Kernel/(13258:13258): The client disconnected
+[INFO] 22:47:00:646 Kernel/(13258:13258): Kernel ready to receive
+[INFO] 22:47:07:302 Kernel/(13258:13258): A client connected
+[WARNING] 22:47:07:302 Kernel/(13258:13258): Unknown operation
+[INFO] 22:47:07:302 Kernel/(13258:13258): Message recived: valor
+[ERROR] 22:47:59:901 Kernel/(13258:13258): The client disconnected
+[INFO] 22:47:59:902 Kernel/(13258:13258): Kernel ready to receive
+[INFO] 22:53:33:723 Kernel/(13258:13258): A client connected
+[WARNING] 22:53:33:723 Kernel/(13258:13258): Unknown operation
+[INFO] 22:53:33:723 Kernel/(13258:13258): Message recived: valor
+[ERROR] 22:53:37:292 Kernel/(13258:13258): The client disconnected
+[INFO] 22:53:37:293 Kernel/(13258:13258): Kernel ready to receive
+[INFO] 22:54:01:328 Kernel/(13258:13258): A client connected
+[WARNING] 22:54:01:328 Kernel/(13258:13258): Unknown operation
+[INFO] 22:54:01:328 Kernel/(13258:13258): Message recived: valor
+[ERROR] 22:54:06:126 Kernel/(13258:13258): The client disconnected
+[INFO] 22:54:06:127 Kernel/(13258:13258): Kernel ready to receive
+[INFO] 22:54:40:673 Kernel/(13258:13258): A client connected
+[WARNING] 22:54:40:673 Kernel/(13258:13258): Unknown operation
+[ERROR] 22:54:55:251 Kernel/(13258:13258): The client disconnected
+[INFO] 22:54:55:251 Kernel/(13258:13258): Kernel ready to receive
+[INFO] 22:56:11:739 Kernel/(13258:13258): A client connected
+[WARNING] 22:56:17:832 Kernel/(13258:13258): Unknown operation
+[ERROR] 22:56:31:815 Kernel/(13258:13258): The client disconnected
+[INFO] 22:56:31:815 Kernel/(13258:13258): Kernel ready to receive
+[INFO] 22:56:52:852 Kernel/(17478:17478): Kernel ready to receive
+[INFO] 22:57:10:081 Kernel/(17478:17478): A client connected
+[ERROR] 22:58:06:755 Kernel/(17478:17478): The client disconnected
+[INFO] 22:58:06:756 Kernel/(17478:17478): Kernel ready to receive
+[INFO] 22:58:14:479 Kernel/(17986:17986): Kernel ready to receive
+[INFO] 22:58:21:242 Kernel/(17986:17986): A client connected
+[INFO] 22:58:29:915 Kernel/(17986:17986): Message recived: valor
+[ERROR] 22:58:36:354 Kernel/(17986:17986): The client disconnected
+[INFO] 22:58:36:355 Kernel/(17986:17986): Kernel ready to receive
+[INFO] 22:58:48:787 Kernel/(17986:17986): A client connected
+[WARNING] 22:58:52:336 Kernel/(17986:17986): Unknown operation
+[ERROR] 23:02:53:373 Kernel/(18913:18913): Could not assign kernel socket to some fd
+[ERROR] 23:03:04:866 Kernel/(19031:19031): Could not assign kernel socket to some fd
+[ERROR] 23:03:12:019 Kernel/(19138:19138): Could not assign kernel socket to some fd
+[ERROR] 23:03:23:082 Kernel/(19231:19231): Could not assign kernel socket to some fd
+[ERROR] 23:03:39:203 Kernel/(19325:19325): Could not assign kernel socket to some fd
+[INFO] 23:04:05:031 Kernel/(19535:19535): Kernel ready to receive
+[INFO] 23:04:25:151 Kernel/(19535:19535): A client connected
+[ERROR] 23:04:36:670 Kernel/(19535:19535): The client disconnected
+[INFO] 23:04:36:670 Kernel/(19535:19535): Kernel ready to receive
+[INFO] 23:04:51:514 Kernel/(19941:19941): Kernel ready to receive
+[INFO] 23:05:21:046 Kernel/(19941:19941): A client connected
+[INFO] 23:05:57:977 Kernel/(19941:19941): Message recived: valor
+[INFO] 23:06:44:335 Kernel/(19941:19941): The following values arrived:
+
+[ERROR] 23:06:49:425 Kernel/(19941:19941): The client disconnected
+[INFO] 23:06:50:765 Kernel/(19941:19941): Kernel ready to receive
+[INFO] 23:07:13:656 Kernel/(19941:19941): A client connected
+[WARNING] 23:07:40:562 Kernel/(19941:19941): Unknown operation
+[INFO] 23:08:06:525 Kernel/(19941:19941): Message recived: valor
+[INFO] 23:08:47:103 Kernel/(19941:19941): The following values arrived:
+
+[ERROR] 23:08:54:606 Kernel/(19941:19941): The client disconnected
+[INFO] 23:09:00:943 Kernel/(19941:19941): Kernel ready to receive
+[INFO] 23:09:21:112 Kernel/(19941:19941): A client connected
+[WARNING] 23:09:51:147 Kernel/(19941:19941): Unknown operation
+[ERROR] 23:10:58:696 Kernel/(21729:21729): Could not assign kernel socket to some fd
+[ERROR] 23:11:04:078 Kernel/(21820:21820): Could not assign kernel socket to some fd
+[ERROR] 23:11:14:891 Kernel/(21954:21954): Could not assign kernel socket to some fd
+[ERROR] 23:11:21:213 Kernel/(22055:22055): Could not assign kernel socket to some fd
+[ERROR] 23:11:31:391 Kernel/(22177:22177): Could not assign kernel socket to some fd
+[ERROR] 23:11:37:611 Kernel/(22266:22266): Could not assign kernel socket to some fd
+[ERROR] 23:11:44:657 Kernel/(22342:22342): Could not assign kernel socket to some fd
+[INFO] 23:12:24:460 Kernel/(22780:22780): Kernel ready to receive
+[INFO] 23:12:48:559 Kernel/(22780:22780): A client connected
+[INFO] 23:13:20:903 Kernel/(22780:22780): Message recived: valor
+[INFO] 23:13:23:330 Kernel/(22780:22780): The following values arrived:
+
+[ERROR] 23:13:28:687 Kernel/(22780:22780): The client disconnected
+[INFO] 23:13:29:756 Kernel/(22780:22780): Kernel ready to receive
+[INFO] 23:14:01:092 Kernel/(22780:22780): A client connected
+[WARNING] 23:14:15:355 Kernel/(22780:22780): Unknown operation
+[INFO] 23:21:46:422 Kernel/(24356:24356): Kernel ready to receive
+[INFO] 23:22:03:096 Kernel/(24356:24356): A client connected
+[INFO] 23:22:03:097 Kernel/(24356:24356): Message recived: valor
+[INFO] 23:22:09:524 Kernel/(24356:24356): The following values arrived:
+
+[INFO] 23:22:09:526 Kernel/(24356:24356): asdfddasf
+[INFO] 23:22:09:526 Kernel/(24356:24356): dsadsa
+[ERROR] 23:22:09:526 Kernel/(24356:24356): The client disconnected
+[INFO] 23:22:09:526 Kernel/(24356:24356): Kernel ready to receive
+[INFO] 23:22:27:398 Kernel/(24356:24356): A client connected
+[WARNING] 23:22:27:398 Kernel/(24356:24356): Unknown operation
+[ERROR] 23:22:27:398 Kernel/(24356:24356): The client disconnected
+[INFO] 23:22:27:398 Kernel/(24356:24356): Kernel ready to receive
+[INFO] 23:22:57:698 Kernel/(24356:24356): A client connected
+[WARNING] 23:22:57:698 Kernel/(24356:24356): Unknown operation
+[ERROR] 23:22:57:698 Kernel/(24356:24356): The client disconnected
+[INFO] 23:22:57:698 Kernel/(24356:24356): Kernel ready to receive
+[INFO] 23:23:36:412 Kernel/(25176:25176): Kernel ready to receive
+[INFO] 23:23:49:135 Kernel/(25176:25176): A client connected
+[INFO] 23:23:57:550 Kernel/(25176:25176): Message recived: valor
+[INFO] 23:24:34:201 Kernel/(25176:25176): The following values arrived:
+
+[ERROR] 23:24:42:219 Kernel/(25176:25176): The client disconnected
+[INFO] 23:24:43:111 Kernel/(25176:25176): Kernel ready to receive
+[INFO] 23:24:59:984 Kernel/(25176:25176): A client connected
+[INFO] 23:25:38:255 Kernel/(26011:26011): Kernel ready to receive
+[INFO] 23:26:24:722 Kernel/(26348:26348): Kernel ready to receive
+[INFO] 23:26:37:241 Kernel/(26348:26348): A client connected
+[INFO] 23:26:37:242 Kernel/(26348:26348): Message recived: valor
+[INFO] 23:26:44:882 Kernel/(26348:26348): The following values arrived:
+
+[INFO] 23:26:44:882 Kernel/(26348:26348): sdfasfd
+[ERROR] 23:26:44:882 Kernel/(26348:26348): The client disconnected
+[INFO] 23:26:44:882 Kernel/(26348:26348): Kernel ready to receive
+[INFO] 23:26:53:171 Kernel/(26348:26348): A client connected
+[INFO] 23:26:53:171 Kernel/(26348:26348): Message recived: valor
+[INFO] 23:26:59:749 Kernel/(26348:26348): The following values arrived:
+
+[INFO] 23:26:59:750 Kernel/(26348:26348): asfasfas
+[ERROR] 23:26:59:750 Kernel/(26348:26348): The client disconnected
+[INFO] 23:26:59:750 Kernel/(26348:26348): Kernel ready to receive
+[INFO] 23:48:47:522 Kernel/(28205:28205): Kernel ready to receive
+[INFO] 23:54:23:538 Kernel/(28625:28625): Kernel ready to receive
+[INFO] 23:56:08:036 Kernel/(29283:29283): Kernel ready to receive
+[INFO] 00:48:25:497 Kernel/(3517:3517): Kernel ready to receive
+[INFO] 00:49:38:975 Kernel/(3517:3517): A client connected
+[INFO] 00:49:56:657 Kernel/(3517:3517): Message recived: valor
+[INFO] 00:49:56:657 Kernel/(3517:3517): The following values arrived:
+
+[ERROR] 00:49:56:657 Kernel/(3517:3517): The client disconnected
+[INFO] 00:49:56:657 Kernel/(3517:3517): Kernel ready to receive
+[INFO] 00:50:18:645 Kernel/(3517:3517): A client connected
+[INFO] 00:50:18:645 Kernel/(3517:3517): Message recived: valor
+[INFO] 00:50:25:216 Kernel/(3517:3517): The following values arrived:
+
+[INFO] 00:50:25:218 Kernel/(3517:3517): Dale
+[ERROR] 00:50:25:219 Kernel/(3517:3517): The client disconnected
+[INFO] 00:50:25:219 Kernel/(3517:3517): Kernel ready to receive
+[INFO] 01:00:51:077 Kernel/(5638:5638): Kernel ready to receive
+[INFO] 01:00:57:345 Kernel/(5638:5638): A client connected
+[INFO] 01:00:57:345 Kernel/(5638:5638): Message recived: valor
+[INFO] 01:01:04:314 Kernel/(5638:5638): The following values arrived:
+
+[INFO] 01:01:04:314 Kernel/(5638:5638): Hola
+[INFO] 01:01:04:314 Kernel/(5638:5638): Como estas?
+[ERROR] 01:01:04:317 Kernel/(5638:5638): The client disconnected
+[INFO] 01:01:04:317 Kernel/(5638:5638): Kernel ready to receive
+[INFO] 21:22:27:649 Kernel/(5511:5511): Kernel ready to receive
+[INFO] 23:29:17:221 Kernel/(10651:10651): Kernel ready to receive
+[INFO] 23:30:06:149 Kernel/(10971:10971): Kernel ready to receive
+[INFO] 23:30:18:887 Kernel/(11135:11135): Kernel ready to receive
+[INFO] 23:31:05:243 Kernel/(11459:11459): Kernel ready to receive
+[INFO] 23:55:08:354 Kernel/(12741:12741): Kernel ready to receive
+[INFO] 23:57:02:941 Kernel/(13115:13115): Kernel ready to receive
+[INFO] 23:57:37:192 Kernel/(13374:13374): Kernel ready to receive
+[INFO] 23:59:47:780 Kernel/(13699:13699): Kernel ready to receive
+[INFO] 00:00:40:213 Kernel/(14053:14053): Kernel ready to receive
+[INFO] 00:02:29:186 Kernel/(2408:2408): Kernel ready to receive
+[INFO] 00:05:52:283 Kernel/(3200:3200): Kernel ready to receive
+[INFO] 00:05:59:419 Kernel/(3200:3200): A client connected
+[INFO] 00:05:59:419 Kernel/(3200:3200): Message recived: valor
+[INFO] 00:06:03:851 Kernel/(3200:3200): The following values arrived:
+
+[INFO] 00:06:03:851 Kernel/(3200:3200): Hola
+[ERROR] 00:06:03:851 Kernel/(3200:3200): The client disconnected
+[INFO] 00:06:03:854 Kernel/(3200:3200): Kernel ready to receive
+[INFO] 00:06:15:109 Kernel/(3200:3200): A client connected
+[INFO] 00:06:15:111 Kernel/(3200:3200): Message recived: valor
+[INFO] 00:06:18:566 Kernel/(3200:3200): The following values arrived:
+
+[ERROR] 00:06:18:567 Kernel/(3200:3200): The client disconnected
+[INFO] 00:06:18:567 Kernel/(3200:3200): Kernel ready to receive
+[INFO] 00:06:25:949 Kernel/(3200:3200): A client connected
+[INFO] 00:06:25:950 Kernel/(3200:3200): Message recived: valor
+[INFO] 00:12:34:279 Kernel/(4310:4310): Kernel ready to receive
